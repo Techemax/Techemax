@@ -1,5 +1,5 @@
 ### Hi there 👋
-I´m learning Python and QA suport 
+I´m learning Python and QA support 
 
 Yo can reach me here: https://www.linkedin.com/in/cesar-prado793/
 
