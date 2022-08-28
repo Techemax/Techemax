@@ -1,0 +1,18 @@
+import random
+generatedNumber = random.randrange(1, 10)
+aviso = str(input("Bienvenido al Juego, solo debes elegir un numero (presiona enter) "))
+userGuess = int(input("Adivina el numero desde el 1 - 10 "))
+if userGuess == generatedNumber:
+    print("GANASTE")
+elif userGuess > 10:
+    print("ES DEL 1 AL 10")
+elif userGuess == 0:
+    print("ES DEL 1 AL 10")
+elif userGuess < 0:
+    print("ES DEL 1 AL 10")
+elif userGuess < generatedNumber:
+    print("FALLASTE, el numero era mayor")
+elif userGuess > generatedNumber:
+    print("FALLASTE, el numero era menor")
+else:
+    print("NO ES UNA LETRA, ES UN  NUMERO")
