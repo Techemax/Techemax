@@ -1,7 +1,7 @@
 ### Hi there 👋
 I´m learning Python and QA suport 
 
-Yo can reach me in my https://www.linkedin.com/in/cesar-prado793/
+Yo can reach me here: https://www.linkedin.com/in/cesar-prado793/
 
 i´m the creator of ARKT TOKEN in the Polygon 
 
