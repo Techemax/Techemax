@@ -1,5 +1,5 @@
 ### Hi there 👋
-I´m learning Python and Tester QA manual
+I´m Python Developer and Tester QA manual
 
 Yo can reach me here: https://www.linkedin.com/in/cesar-prado793/
 
