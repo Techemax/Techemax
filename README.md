@@ -1,6 +1,5 @@
 ### Hi there 👋
 I am passionate about technology and I am currently studying Video Game Design 
-:video_game::joystick:
 
 :book: Technologies and / or programming languages that I handle: 
 :earth_americas:
